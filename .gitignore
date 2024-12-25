@@ -39,5 +39,8 @@ coverage/
 package-lock.json
 yarn.lock
 
+# Ignore specific build folder
+com.metalsole.premier-pro-actions.sdPlugin/
+
 # Ignore any other specific files or directories
 # Add any additional patterns here
